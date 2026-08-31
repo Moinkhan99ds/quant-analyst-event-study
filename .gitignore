@@ -1,0 +1,15 @@
+# Raw datasets
+data/
+corporate_announcements.csv
+RELIANCE.csv
+HDFCBANK.csv
+NYKAA.csv
+HAL.csv
+RVNL.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
