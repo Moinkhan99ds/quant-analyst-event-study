@@ -110,7 +110,8 @@ quant-analyst-event-study/
 ├── requirements.txt
 │
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── corporate.ipynb
+    ├── corporate2.ipynb
 │
 ├── outputs/
 │   ├── event_level_results.csv
